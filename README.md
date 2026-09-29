@@ -5,13 +5,9 @@ Trabajo en finanzas cuantitativas y estructuradas: modelado de fondos, análisis
 🌐 **Sitio personal y notas técnicas:** [e-diaz.me](https://e-diaz.me)
 
 ## En qué trabajo
-- 📈 **Finanzas cuantitativas**: valuación de cuotas, EV, criterio de Kelly y gestión de bankroll.
-- 🏦 **Finanzas estructuradas**: modelos de cascadas de distribución (waterfalls) para fondos.
+- 📈 **Finanzas cuantitativas**: riesgos financieros (mercado, crédito, liquidez, etc), modelos de performance, valuación de cuotas, EV, criterio de Kelly, gestión de bankroll, entre muchos otros temas.
 - ⚙️ **Automatización**: integración con APIs (Odoo, entre otras) y validación de reportes.
 - 🎧 **Proyectos creativos**: música generativa y experimentos visuales.
-
-## Repositorios destacados
-Próximamente. Estoy preparando los primeros proyectos abiertos, cada uno con su nota técnica en e-diaz.me.
 
 ## Tecnologías
 `Python` · `PHP` · `SQL / SQLite` · `JavaScript` · `Excel / VBA`
